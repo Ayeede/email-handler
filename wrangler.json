@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "email-handler",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8f414425-c66e-4c7c-801b-571aed0d5546",
+			"database_name": "emails_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
